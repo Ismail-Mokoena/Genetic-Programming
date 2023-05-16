@@ -1,0 +1,14 @@
+Refrigerator A, 0.751, 999.90
+Cell Phone, 0.0000099, 219.12
+TV 55, 0.400, 4346.99
+TV 50, 0.290, 3999.90
+TV 42, 0.200, 2999.00
+Notebook A, 0.00350, 2499.90
+Ventilator, 0.496, 199.90
+Microwave A, 0.0424, 308.66
+Microwave B, 0.0544, 429.90
+Microwave C, 0.0319, 299.29
+Refrigerator B, 0.635, 849.00
+Refrigerator C, 0.870, 1199.89
+Notebook B, 0.498, 1999.90
+Notebook C, 0.527, 3999.00 

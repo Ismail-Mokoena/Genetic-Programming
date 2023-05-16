@@ -1,5 +1,5 @@
 from dataclasses import dataclass, field
-import random
+from random import random
 
 @dataclass
 class Individual():
@@ -9,6 +9,7 @@ class Individual():
     generation: int = 0
     chromosome: list = field(default_factory=list)
     
+
     def set_chromosome(cls):
         for i in range(len(cls.space)):
             if random() < 0.5:
